@@ -1,0 +1,12 @@
+{
+  "name": "phishing-app",
+  "displayName": "phishing-app",
+  "expo": {
+    "name": "phishing-app",
+    "slug": "phishing-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
